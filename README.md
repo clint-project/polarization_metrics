@@ -1,7 +1,8 @@
 # Misinformation and echo chambers in social media
 
 Code to reproduce the calculations for the polarization, the entropy and flow diversity and the chamber overlap as done in "A cross-platform analysis of polarization and echo chambers in climate change discussions" by Aleix Bassolas , Joan Massachs, Emanuele Cozzo, and Julian Vicens.
-https://doi.org/10.5281/zenodo.14095108
+https://arxiv.org/abs/2410.21187
+
 
 ## Requirements
 
@@ -45,3 +46,4 @@ Run the script as python3 chamber_overlap.py config_chamber.json
 ## Contact
 
 If you have any questions, please contact the corresponding author Aleix Bassolas
+https://doi.org/10.5281/zenodo.14095108
